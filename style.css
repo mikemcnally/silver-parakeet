@@ -2,12 +2,15 @@ h1{font-weight: 300;}
 html{background-color: antiquewhite;}
 div{
     margin-left: 25%;
-    width: 75%;
+    width: 50%;
     
 
 }
  #box1{ border-image-width: 10px;
-width: 100%;
+
+margin-top: 60px;
+margin-left: 0px;
+    width: 100%;
 height:auto;
 border: 10px white solid;
 } 
