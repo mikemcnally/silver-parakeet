@@ -7,7 +7,8 @@ div{
 
 }
  #box1{ border-image-width: 10px;
-inline-size: 100%;
+width: 100%;
+height:auto;
 border: 10px white solid;
 } 
 #box2{color: white;
@@ -20,5 +21,5 @@ border: 10px white solid;
    margin-top: 1px;
     width: 100%;
     align-content: center;
-    text-align: right;
+    text-align: center;
 }
