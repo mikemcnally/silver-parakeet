@@ -1,2 +1,24 @@
 h1{font-weight: 300;}
 html{background-color: antiquewhite;}
+div{
+    margin-left: 25%;
+    width: 75%;
+    
+
+}
+ #box1{ border-image-width: 10px;
+inline-size: 100%;
+border: 10px white solid;
+} 
+#box2{color: white;
+    inline-size: 100%;
+    margin-top: 1px;
+    text-align: center;
+
+}
+#box3{color: white;
+   margin-top: 1px;
+    width: 100%;
+    align-content: center;
+    text-align: right;
+}
