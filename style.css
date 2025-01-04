@@ -6,15 +6,11 @@ div{
     
 
 }
- .box1{
- width: 1000px;
-margin-left: 0%;
-margin-top: 1px;
+#box1{ border-image-width: 10px;
+    inline-size: 100%;
+    border: 10px white solid;
+    } 
 
-    
-height:auto;
-border: 5px black solid;
-} 
 #box2{color: white;
     inline-size: 100%;
     margin-top: 1px;
@@ -26,13 +22,4 @@ border: 5px black solid;
     width: 100%;
     align-content: center;
     text-align: center;
-}
-h3 {
-    text-align: center;
-}
-p{
-    text-align: center;
-}
-img{
-   padding-left: 35%; 
 }
