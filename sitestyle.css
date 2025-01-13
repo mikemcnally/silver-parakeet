@@ -1,10 +1,10 @@
-html{background-color: #7ffffd4;}
+html{background-color: #7fffd4;}
 
 
 body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 0 50px;
-  background-color: #7ffffd4;
+  background-color: #7fffd4;
   display: flex;
   flex-direction: column;
   min-height: 95vh;
