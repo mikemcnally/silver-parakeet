@@ -5,12 +5,12 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 50px 50px;
   background-color: #7fffd4;
-  display: inline-flex;
+  display: inline-block;
   flex-direction: column;
   
 }
 .main {
-  display: inline;
+  flex;
 }
 
 h1 {
@@ -24,7 +24,7 @@ footer {
 }
 
 .tile-image {
-  height: 400px;
+  height: 200px;
   width: 200px;
   float: left;
   margin-right: 50px;
@@ -53,11 +53,7 @@ footer {
 max-height: 200px;
 display: inline-block;
 }
-@media (max-width: 680px) {
-  .logo {
-    width: 100px;
-    
-  }
+
 
   h1 {
     font-size: 3.5rem;
