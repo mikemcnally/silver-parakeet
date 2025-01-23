@@ -10,7 +10,7 @@ body {
   
 }
 .main {
-  flex;
+  flex:auto;
 }
 
 h1 {
@@ -74,4 +74,3 @@ display: inline-block;
     object-fit: cover;
   }
 
-}
