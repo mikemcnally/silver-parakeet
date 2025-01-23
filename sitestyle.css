@@ -3,14 +3,14 @@ html{background-color: #00ffff;}
 
 body {
   font-family: "Poppins", sans-serif;
-  margin: 50px 50px 0 50px;
+  margin: 50px 50px 50px 50px;
   background-color: #7fffd4;
   display: inline-flex;
   flex-direction: column;
-  min-height: 95vh;
+  
 }
 .main {
-  flex: 1;
+  display: inline;
 }
 
 h1 {
@@ -20,12 +20,15 @@ h1 {
 footer {
   text-align: right;
   color: midnightblue;
+  float: clear;
 }
 
 .tile-image {
-  height: 200px;
+  height: 400px;
+  width: 200px;
   float: left;
   margin-right: 50px;
+  align-content: center;
   
   
 }
