@@ -1,8 +1,10 @@
 h1{font-weight: 300;}
-html{background-color: silver;}
+html{background-color: gold;}
 div{
-    margin-left: 25%;
-    width: 50%;
+    margin-left: 10%;
+    width: 80%;
+    padding: 10px;
+    border-style: double;
     
 
 }
