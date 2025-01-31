@@ -3,10 +3,9 @@ html{background-color: silver;}
 
 body {
   font-family: "Poppins", sans-serif;
-  margin: 5px 5px 5px 5px;
+  margin: 50px 50px 50px 50px;
   
-  display: flex;
-  flex-wrap: wrap;
+  
   
 }
 .main {
@@ -26,7 +25,7 @@ footer {
 .tile-image {
   
   width: 200px;
-  float: left;
+height: 200px;
   margin-right: 10px;
  
   
@@ -67,10 +66,5 @@ display: inline-block;
     text-align: justify;
   }
 
-  .card img {
-    margin-bottom: 10px;
-    width: 100%;
-    display: inline;
-    object-fit: cover;
-  }
+
 
