@@ -29,3 +29,8 @@ div{
     margin-left: 1px;
     margin-right: 1px;
  }
+ ul{
+    
+    list-style-type:none;
+    padding-left: 0px;
+}
