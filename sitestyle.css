@@ -23,10 +23,10 @@ footer {
 }
 
 .tile-image {
-  
-  width: 200px;
-height: 200px;
-  margin-right: 10px;
+  display: grid;
+  grid-template-rows: 400px;
+grid-template-columns: 400px;
+  margin-right: 100px;
  
   
   
