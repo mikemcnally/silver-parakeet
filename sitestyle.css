@@ -5,11 +5,13 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 50px 50px;
   
-  
+  display: block;
   
 }
 .main {
-  flex:auto;
+  display: block;
+  
+ 
 }
 
 h1 {
@@ -23,34 +25,25 @@ footer {
 }
 
 .tile-image {
-  display: grid;
-  grid-template-rows: 400px;
-grid-template-columns: 400px;
-  margin-right: 100px;
+  height: 500px;
+  width: 400px;
+
+
+  
  
   
   
 }
 
-.card {
-  width: 100%;
-}
-
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
 
 .creative {
   color: midnightblue;
 }
 
-.river{max-width: 200px;
-max-height: 200px;
-display: inline-block;
+.river{
+ width: 400px;
+height:200px
+
 }
 
 
@@ -59,12 +52,7 @@ display: inline-block;
     text-align: center;
   }
 
-  .card {
-    width: 100%;
-    display: inline-block;
-    margin-bottom: 30px;
-   
-  }
+  
 
 
 
