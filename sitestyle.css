@@ -6,13 +6,12 @@ body {
   margin: 50px 50px 50px 50px;
   
   display: block;
-  
+  height: 100vh;
 }
-.main {
-  display: block;
+
   
  
-}
+
 
 h1 {
   font-size: 5rem;
